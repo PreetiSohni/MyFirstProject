@@ -3,4 +3,4 @@ Flask
 numpy
 pandas
 matplotlib
-seaborn
+gunicorn
